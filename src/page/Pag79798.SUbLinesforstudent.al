@@ -1,4 +1,4 @@
-page 79798 SUbLinesforstudent
+page 69798 SUbLinesforstudent
 {
     PageType = ListPart;
     ApplicationArea = All;

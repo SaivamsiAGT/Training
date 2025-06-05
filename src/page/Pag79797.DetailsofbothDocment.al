@@ -1,4 +1,4 @@
-page 79797 DetailsofbothDocment
+page 69797 DetailsofbothDocment
 {
     PageType = Document;
     ApplicationArea = All;
@@ -28,7 +28,7 @@ page 79797 DetailsofbothDocment
                 }
             }
 
-            part(SUbLinesforstudens; 79798)
+            part(SUbLinesforstudens; 69798)
             {
                 ApplicationArea = All;
                 SubPageLink = "Dep_Name" = field(Dep_Name);/*  same table last  */

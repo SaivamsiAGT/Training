@@ -1,4 +1,4 @@
-table 79790 DepartmentTable
+table 79788 DepartmentTable
 {
     DataClassification = ToBeClassified;
 

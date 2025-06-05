@@ -1,4 +1,4 @@
-page 79796 DisplayStudenttabledata
+page 69796 DisplayStudenttabledata
 {
     PageType = List;
     ApplicationArea = All;

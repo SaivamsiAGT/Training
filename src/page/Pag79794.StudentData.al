@@ -1,4 +1,4 @@
-page 79794 StudentData
+page 69794 StudentData
 {
     PageType = Card;
     ApplicationArea = All;

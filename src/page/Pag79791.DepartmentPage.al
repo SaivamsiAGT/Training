@@ -1,4 +1,4 @@
-page 79791 DepartmentPage
+page 69791 DepartmentPage
 {
     PageType = Card;
     ApplicationArea = All;

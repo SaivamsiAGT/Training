@@ -1,4 +1,4 @@
-page 79792 DisplayDepartmentTableData
+page 69792 DisplayDepartmentTableData
 {
     PageType = List;
     ApplicationArea = All;

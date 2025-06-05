@@ -1,4 +1,4 @@
-table 79793 StudentTable
+table 79879 StudentTable
 {
     DataClassification = ToBeClassified;
     LookupPageID = DisplayDepartmentTableData;
